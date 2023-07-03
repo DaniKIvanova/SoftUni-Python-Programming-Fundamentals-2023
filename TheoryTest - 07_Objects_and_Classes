@@ -1,0 +1,87 @@
+1️⃣ What does OOP stand for?
+
+ ▶ a) Object-Oriented Programming  
+   b) Object-Oriented Protocol  
+   c) Object-Oriented Process  
+   d) Object-Oriented Principles  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+2️⃣ Which of the following is true about a class in Python?
+
+ ▶ a) It is a blueprint for creating objects.  
+   b) It is a built-in data type.  
+   c) It represents a single instance of an object.  
+   d) It is a module for organizing functions.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+3️⃣ What is an instance in Python?
+
+   a) A built-in data type.  
+   b) A function within a class. 
+   c) A variable that holds a value.  
+ ▶ d) A concrete object of the class.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+4️⃣ What are attributes in the context of OOP?
+
+   a) Functions within a class.  
+ ▶ b) Variables that hold values.  
+   c) Statements that define class behavior.  
+   d) Keywords reserved for class definitions.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+5️⃣ What is the purpose of the __init__() method in a class?
+
+ ▶ a) To initialize an object's initial attributes.  
+   b) To define class attributes.  
+   c) To create a new instance of the class.  
+   d) To access variables that belong to the class.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+6️⃣ What does the self parameter represent in a method definition?
+
+ ▶ a) A reference to the current instance of the class.  
+   b) The class itself.  
+   c) The superclass of the class.  
+   d) The module containing the class.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+7️⃣ How can you modify the value of an attribute in an object?
+
+ ▶ a) By using the dot notation and assigning a new value to it.  
+   b) By defining a new method in the class.  
+   c) By reassigning the attribute in the class definition.  
+   d) By using the self keyword in a method.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+8️⃣ What happens when you change the value of an attribute in an object?
+
+   a) The change is reflected in all instances of the class.  
+ ▶ b) The change is only made for that specific instance.  
+   c) The attribute is deleted from the object.  
+   d) The attribute becomes read-only.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+9️⃣ What is the purpose of inheritance in OOP?
+
+   a) To create multiple instances of a class.  
+   b) To encapsulate data and behavior into objects.  
+ ▶ c) To reuse code and extend functionality.  
+   d) To define attributes and methods for a class.  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🔟 What is encapsulation in OOP?
+
+   a) The process of creating an object from a class.  
+ ▶ b) The ability to hide internal implementation details and provide an interface.  
+   c) The process of defining attributes and methods for a class.  
+   d) The ability to inherit attributes and methods from a superclass.
