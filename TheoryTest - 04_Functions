@@ -1,0 +1,87 @@
+1️⃣ Which keyword is used to define a function in Python?
+
+   a) method  
+ ▶ b) def  
+   c) function  
+   d) define  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+2️⃣ What is the purpose of the lambda keyword in Python?
+
+   a) To define a class  
+   b) To create a variable  
+   c) To declare a function  
+ ▶ d) To define an anonymous function  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+3️⃣ What does the len() function return when applied to a list in Python?
+
+   a) The sum of all elements in the list  
+ ▶ b) The number of items in the list   
+   c) The average of all elements in the list  
+   d) The maximum value in the list  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+4️⃣ How do you call a function named my_function in Python?
+
+   a) call my_function()  
+   b) my_function  
+   c) invoke my_function()  
+ ▶ d) my_function()   
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+5️⃣ What is the return type of the range() function in Python?
+
+   a) Integer  
+   b) List  
+   c) Tuple  
+ ▶ d) Range object  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+6️⃣ What does the map() function do in Python?
+
+ ▶ a) Applies a function to each element of an iterable  
+   b) Filters out elements from an iterable  
+   c) Computes the sum of all elements in an iterable  
+   d) Sorts the elements of an iterable  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+7️⃣ Can a function in Python have multiple return statements?
+
+ ▶ a) Yes   
+   b) No  
+   c) Only if the function has a single parameter  
+   d) Only if the function is defined using lambda  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+8️⃣ Can a function in Python have optional parameters?
+
+ ▶ a) Yes   
+   b) No  
+   c) Only if the function is defined using lambda  
+   d) Only if the function has a single line of code  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+9️⃣ What is the scope of a variable defined inside a function in Python?
+
+   a) Global scope  
+   b) Class scope  
+ ▶ c) Function scope   
+   d) Module scope  
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🔟 What is a recursive function in Python?
+
+ ▶ a) A function that calls itself   
+   b) A function defined inside another function  
+   c) A function that accepts a variable number of arguments  
+   d) A function that returns a boolean value 
