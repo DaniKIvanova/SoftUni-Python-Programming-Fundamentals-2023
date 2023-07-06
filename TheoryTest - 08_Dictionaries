@@ -1,7 +1,7 @@
 1️⃣ How do you create an empty dictionary in Python?
 
-   a) empty_dict = {}
- ▶ b) empty_dict = dict()
+ ▶ a) empty_dict = {}
+   b) empty_dict = ()
    c) empty_dict = []
    d) empty_dict = set()
 
