@@ -1,0 +1,96 @@
+1️⃣ What is the correct way to create a multiline string in Python?
+
+   a) Using single quotes: 'Hello\nWorld'
+ ▶ b) Using triple quotes: """Hello\nWorld"""
+   c) Using double quotes: "Hello\nWorld"
+   d) Using backslashes: 'Hello\nWorld'
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+2️⃣ Which of the following methods returns the length of a string in Python?
+
+   a) size()
+   b) length()
+   c) count()
+ ▶ d) len()
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+3️⃣ What will be the output of the following code?
+string = "Hello World"
+print(string[3:8])
+
+   a) "Hello"
+ ▶ b) "lo Wo"
+   c) "o Wo"
+   d) " Wo"
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+4️⃣ Which method is used to convert a string to lowercase in Python?
+
+   a) tolower()
+ ▶ b) lower()
+   c) lowercase()
+   d) casefold()
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+5️⃣ What is the result of the following code?
+string = "Python"
+print(string[-2])
+
+   a) "h"
+ ▶ b) "o"
+   c) "n"
+   d) "t"
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+6️⃣ Which method is used to split a string into a list of substrings based on a delimiter?
+
+ ▶ a) split()
+   b) divide()
+   c) slice()
+   d) separate()
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+7️⃣ What will be the output of the following code?
+string = "Hello World"
+print(string.replace("o", "x"))
+
+ ▶ a) "Hellx Wxrld"
+   b) "Hexllo Wxrld"
+   c) "Hellx World"
+   d) "Hello Wxrld"
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+8️⃣ What does the strip() method do in Python?
+
+ ▶ a) Removes leading and trailing spaces from a string
+   b) Converts the string to uppercase
+   c) Removes all occurrences of a specified character
+   d) Splits the string into a list of substrings
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+9️⃣ What is the output of the following code?
+string = "Hello World"
+print(string.count("l"))
+
+   a) 2
+ ▶ b) 3
+   c) 4
+   d) 5
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🔟 Which method is used to check if a string starts with a specified substring?
+
+ ▶ a) startswith()
+   b) beginswith()
+   c) start()
+   d) prefix()
+
